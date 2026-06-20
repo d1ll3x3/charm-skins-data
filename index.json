@@ -19,6 +19,9 @@
     "assets": {
       "charm": {
         "hash": "1e6ac7add786ea258113b014cb227e989d3ad5cb7398eb1a5a1c056d6cd3f5ca"
+      },
+      "emission": {
+        "hash": "7767984dba9aefc891d40fd017e83d5445ddf24eb5576df61a0f0e54577fac2a"
       }
     }
   }
