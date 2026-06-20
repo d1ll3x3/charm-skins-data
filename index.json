@@ -27,5 +27,15 @@
         "hash": "a0174cca9f0dcd4e30726c07ae5b79076af0b5c70eca915c08254446af11b1d2"
       }
     }
+  },
+  "76561199062681787": {
+    "steamid": "76561199062681787",
+    "name": "d",
+    "display": "D",
+    "assets": {
+      "skin": {
+        "hash": "9d71ae5caacc8dd4d5da3dcc2d887d97880dad72e86f1080e1bebf7c8a631257"
+      }
+    }
   }
 }
