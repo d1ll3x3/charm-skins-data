@@ -61,6 +61,9 @@
     "assets": {
       "skin": {
         "hash": "32b8ea63ff943907e916434a7e392cbea0c4132e3f1ba67121b1e7a74581ae8a"
+      },
+      "emission": {
+        "hash": "7a7afe84b60ad60f950d917a9d5be7ab1d94d792b29469f22f0a51f5c72f4573"
       }
     }
   }
