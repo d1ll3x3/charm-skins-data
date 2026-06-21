@@ -53,5 +53,15 @@
         "hash": "304e2cf4fc1076cb1e7dfec9649be3ad3b90b3db43d37c2a06a6722a2a73e891"
       }
     }
+  },
+  "76561198211457533": {
+    "steamid": "76561198211457533",
+    "name": "mokie",
+    "display": "Mokie",
+    "assets": {
+      "skin": {
+        "hash": "32b8ea63ff943907e916434a7e392cbea0c4132e3f1ba67121b1e7a74581ae8a"
+      }
+    }
   }
 }
