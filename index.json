@@ -40,5 +40,15 @@
         "hash": "4a90444aa20ed4e6b189a4e36e252d4b296daa48425419268d2e924f442d485c"
       }
     }
+  },
+  "76561198190531842": {
+    "steamid": "76561198190531842",
+    "name": "alittletoosaucy",
+    "display": "ALittleTooSaucy",
+    "assets": {
+      "skin": {
+        "hash": "8614c5863caa725536c05246a9b33a102249367843139385ba5999694b9f27b0"
+      }
+    }
   }
 }
