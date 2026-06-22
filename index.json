@@ -66,5 +66,15 @@
         "hash": "f0cea5ab8fe2b665c0e95cd97f359a26b63221a5cb4fecc289e37aceb6951d2a"
       }
     }
+  },
+  "76561199111237680": {
+    "steamid": "76561199111237680",
+    "name": "rowbman",
+    "display": "rowbman",
+    "assets": {
+      "skin": {
+        "hash": "ab7a5039226d8ee73c29b3ad5c1e76fa0ac324f23130f0aa29081d13ba837838"
+      }
+    }
   }
 }
