@@ -125,5 +125,15 @@
         "hash": "682aaef03c8d9d6b669e97f749319798682b21aaf0c5cf1e65a1396476fca841"
       }
     }
+  },
+  "76561198396684828": {
+    "steamid": "76561198396684828",
+    "name": "gregharrington240z",
+    "display": "gregharrington240z",
+    "assets": {
+      "skin": {
+        "hash": "7874d2010e4741fdd5ef115f539793e7aeac24d7296283ccd156eb7e6208f8b2"
+      }
+    }
   }
 }
