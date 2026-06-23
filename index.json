@@ -125,5 +125,15 @@
         "hash": "abc4f4c8d1f33824a2f74e5e6e818ab2a6a113f9bebdeea42edb5a1c0030e6ee"
       }
     }
+  },
+  "76561199543956818": {
+    "steamid": "76561199543956818",
+    "name": "zsomici",
+    "display": "zsomici",
+    "assets": {
+      "skin": {
+        "hash": "a96801d381236d711f25360aeec4ccc84bf1e364da5d0b79497ff20ce3ee7477"
+      }
+    }
   }
 }
