@@ -105,9 +105,6 @@
     "name": "zsomici",
     "display": "zsomici",
     "assets": {
-      "skin": {
-        "hash": "a96801d381236d711f25360aeec4ccc84bf1e364da5d0b79497ff20ce3ee7477"
-      },
       "emission": {
         "hash": "2a03e89d954f0a87bca60c6ed02a8a23f5ab12a111da3bfe207e33c8feec6f16"
       }
