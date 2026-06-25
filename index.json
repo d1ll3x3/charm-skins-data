@@ -138,5 +138,15 @@
         "hash": "4eba4cd854e89ed3025b55b0db904b91901daa4da49227debb9f40f590a4ad6e"
       }
     }
+  },
+  "76561198423706912": {
+    "steamid": "76561198423706912",
+    "name": "cl3m3ntyn3",
+    "display": "Cl3m3ntyn3",
+    "assets": {
+      "skin": {
+        "hash": "214cef85708be7c4e2dc908f9f4dc07e880122d9ce5ae5b1b31ff3ea1dd0c2f9"
+      }
+    }
   }
 }
