@@ -149,6 +149,9 @@
       },
       "emission": {
         "hash": "4dd73fded4829b8b5437e2969db1fddb4d937782c3f371ff0f9e7d23c705965c"
+      },
+      "charm": {
+        "hash": "3223dbc663f76956ac0b008bd400fac5f62f68313e3f73d2d102b8340a7eec3f"
       }
     }
   }
