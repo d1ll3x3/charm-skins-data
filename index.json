@@ -154,5 +154,15 @@
         "hash": "3223dbc663f76956ac0b008bd400fac5f62f68313e3f73d2d102b8340a7eec3f"
       }
     }
+  },
+  "76561198028848943": {
+    "steamid": "76561198028848943",
+    "name": "plasmadic",
+    "display": "Plasmadic",
+    "assets": {
+      "emission": {
+        "hash": "220f19133e3c5f9a25ba3157bdcbcbe590fbd83efcf8d15f22cc0f6403fe759c"
+      }
+    }
   }
 }
