@@ -167,5 +167,15 @@
         "hash": "95eaf206d6c55d97b91974dd86b4045d36bff443828f839b71ce96866eac24a2"
       }
     }
+  },
+  "76561199274534041": {
+    "steamid": "76561199274534041",
+    "name": "officialcurs3d",
+    "display": "OfficialCurs3d",
+    "assets": {
+      "skin": {
+        "hash": "9d53cc424ca1e6107b89a29e36d56b3bd25c04e602f50f9c17a50bb7f492bce4"
+      }
+    }
   }
 }
