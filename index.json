@@ -177,5 +177,15 @@
         "hash": "9d53cc424ca1e6107b89a29e36d56b3bd25c04e602f50f9c17a50bb7f492bce4"
       }
     }
+  },
+  "76561199482363407": {
+    "steamid": "76561199482363407",
+    "name": "gaming_gamer115",
+    "display": "Gaming_Gamer115",
+    "assets": {
+      "skin": {
+        "hash": "0ee5b1b495186208d7bebb7a10570e281448e927047fdf62744cd8ec89cf3651"
+      }
+    }
   }
 }
