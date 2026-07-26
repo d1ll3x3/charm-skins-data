@@ -206,5 +206,15 @@
         "hash": "e9708f88581f90bf5b83442f42c0fdcb614b7981469e48ff0aa6392f90ee7576"
       }
     }
+  },
+  "76561198309117352": {
+    "steamid": "76561198309117352",
+    "name": "marioundela",
+    "display": "marioundela",
+    "assets": {
+      "skin": {
+        "hash": "5c877fbb0a5a547241724d889ac6bbd41ea82a93d90dab9e7ad55904dec06624"
+      }
+    }
   }
 }
