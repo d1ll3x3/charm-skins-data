@@ -219,5 +219,15 @@
         "hash": "e9708f88581f90bf5b83442f42c0fdcb614b7981469e48ff0aa6392f90ee7576"
       }
     }
+  },
+  "76561199445969877": {
+    "steamid": "76561199445969877",
+    "name": "pizzaprizzaog",
+    "display": "PizzaPrizzaOG",
+    "assets": {
+      "skin": {
+        "hash": "af9562431ec3fe41c50004c57c238504fbad3898f08c97fd8ee05cecc6f58e07"
+      }
+    }
   }
 }
