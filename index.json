@@ -232,5 +232,15 @@
         "hash": "3223dbc663f76956ac0b008bd400fac5f62f68313e3f73d2d102b8340a7eec3f"
       }
     }
+  },
+  "76561199428072336": {
+    "steamid": "76561199428072336",
+    "name": "actuallyhalo",
+    "display": "ActuallyHalo",
+    "assets": {
+      "skin": {
+        "hash": "f3d2a3d2c386fb7182e785b1be2a4f67eaecc9524283414614c2644fe104a4b2"
+      }
+    }
   }
 }
