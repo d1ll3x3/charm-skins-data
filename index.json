@@ -245,5 +245,15 @@
         "hash": "4eae83d644b226be466fe8048da3b0b2cfe17bd46c75dfdc5316c8253d03deaa"
       }
     }
+  },
+  "76561199013466225": {
+    "steamid": "76561199013466225",
+    "name": "gaster",
+    "display": "Gaster",
+    "assets": {
+      "skin": {
+        "hash": "c4e07385cbdc958eecef62e7cfeef937015a4b1283f7875b08a3b4818fc19e1e"
+      }
+    }
   }
 }
