@@ -255,15 +255,5 @@
         "hash": "c4e07385cbdc958eecef62e7cfeef937015a4b1283f7875b08a3b4818fc19e1e"
       }
     }
-  },
-  "76561199185141664": {
-    "steamid": "76561199185141664",
-    "name": "raven",
-    "display": "Raven",
-    "assets": {
-      "skin": {
-        "hash": "5af88bc8b69ed9baa1091def02b5fe93146e475788e31d26c078e5ecc920f045"
-      }
-    }
   }
 }
