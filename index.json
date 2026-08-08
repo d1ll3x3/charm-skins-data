@@ -253,6 +253,9 @@
     "assets": {
       "skin": {
         "hash": "c4e07385cbdc958eecef62e7cfeef937015a4b1283f7875b08a3b4818fc19e1e"
+      },
+      "charm": {
+        "hash": "05de48f4ef479be6b9ddb5d73f58de995a2f8e133f872d293635e31eaa52dec2"
       }
     }
   },
