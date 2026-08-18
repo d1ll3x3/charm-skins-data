@@ -265,5 +265,15 @@
         "hash": "b0c87f9d17e92eeba37a46aee7107d13ea077975aae85e7577796f83d2de4d53"
       }
     }
+  },
+  "76561199518052705": {
+    "steamid": "76561199518052705",
+    "name": "connor.zvёzdochka",
+    "display": "connor.zvёzdochka",
+    "assets": {
+      "skin": {
+        "hash": "64742d354410a88f53d1a9c95f5d55c2d1bd64c18e65ee4308b0090efbde895e"
+      }
+    }
   }
 }
