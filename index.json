@@ -278,5 +278,15 @@
         "hash": "da4d58edf4370bc081a06d62b9ca86b3473a33edce9ed2f3c305af6dc3a8b65f"
       }
     }
+  },
+  "76561198039784591": {
+    "steamid": "76561198039784591",
+    "name": "jonxyc",
+    "display": "jonxyc",
+    "assets": {
+      "charm": {
+        "hash": "8e2802c5531f0647fed91f65dffcd7b1bb99f5ba120562bb145b5e204e4c914b"
+      }
+    }
   }
 }
