@@ -288,5 +288,15 @@
         "hash": "8e2802c5531f0647fed91f65dffcd7b1bb99f5ba120562bb145b5e204e4c914b"
       }
     }
+  },
+  "76561199395914093": {
+    "steamid": "76561199395914093",
+    "name": "meinrox",
+    "display": "Meinrox",
+    "assets": {
+      "skin": {
+        "hash": "dd3a8dc7e9e071bfb26578a5f47cf885bfe7c2151c936083ceebe5789a9bb000"
+      }
+    }
   }
 }
