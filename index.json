@@ -311,5 +311,15 @@
         "hash": "96383a67d2a6a2cf2209544014f0206f6b56595e7e5e18d0577daf51fcfdafd6"
       }
     }
+  },
+  "76561198819018242": {
+    "steamid": "76561198819018242",
+    "name": "maidensvt",
+    "display": "MaidensVT",
+    "assets": {
+      "skin": {
+        "hash": "bf1b692b13ef1ca2d7d681df17fcc94555f2e1ba7377b0ba02b5e85a297f4098"
+      }
+    }
   }
 }
