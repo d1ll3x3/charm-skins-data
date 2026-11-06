@@ -298,5 +298,15 @@
         "hash": "dd3a8dc7e9e071bfb26578a5f47cf885bfe7c2151c936083ceebe5789a9bb000"
       }
     }
+  },
+  "76561199383382098": {
+    "steamid": "76561199383382098",
+    "name": "dober",
+    "display": "Dober",
+    "assets": {
+      "skin": {
+        "hash": "3db03268d70181e954af18664f45568c55622b8afbd487aa11750fa6e6efee90"
+      }
+    }
   }
 }
