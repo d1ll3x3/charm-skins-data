@@ -334,5 +334,15 @@
         "hash": "6cd3e4d910699c53bb878e9b693c608925cd9e99a03494e9bf6519aff1142985"
       }
     }
+  },
+  "76561198847494107": {
+    "steamid": "76561198847494107",
+    "name": "nottsiri",
+    "display": "notTsiri",
+    "assets": {
+      "skin": {
+        "hash": "ff7cc5f07275142b9fa9b0ea893c3db4b0ddb568525056bff45dd11b6acc9bf1"
+      }
+    }
   }
 }
