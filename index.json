@@ -321,5 +321,15 @@
         "hash": "bf1b692b13ef1ca2d7d681df17fcc94555f2e1ba7377b0ba02b5e85a297f4098"
       }
     }
+  },
+  "76561198282486561": {
+    "steamid": "76561198282486561",
+    "name": "prickly",
+    "display": "prickly",
+    "assets": {
+      "skin": {
+        "hash": "ddf5d40f3a54992abf43e82e744132ea0aac25cd157834783c93fe42ee494fdc"
+      }
+    }
   }
 }
