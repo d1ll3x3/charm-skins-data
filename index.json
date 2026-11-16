@@ -347,5 +347,15 @@
         "hash": "019fbb2d678a1570bb63f9528672723ca0f6dfec22268176e1b5d68807a2b1ee"
       }
     }
+  },
+  "76561198783443699": {
+    "steamid": "76561198783443699",
+    "name": "kote",
+    "display": "Kote",
+    "assets": {
+      "skin": {
+        "hash": "25edb3b7b55e05f93ae93b1eafca1df28788b5ff5cdfdb8ff1297715c2b7d9a3"
+      }
+    }
   }
 }
