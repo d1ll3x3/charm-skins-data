@@ -360,5 +360,15 @@
         "hash": "3a89b18178cfc2ff0e53b56a2114e931b532d45cf16354f881e244d48afc5181"
       }
     }
+  },
+  "76561198056914286": {
+    "steamid": "76561198056914286",
+    "name": "pact nicely",
+    "display": "Pact Nicely",
+    "assets": {
+      "skin": {
+        "hash": "834eda31693150208888e132cf39c5e5175889eb595e5e5b70d9250b2ff5d73d"
+      }
+    }
   }
 }
